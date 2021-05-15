@@ -20,8 +20,13 @@ We will show you the steps to follows in order to successfully install the exete
 3. Launch CHESS.exe executable file for tool
 
 4. Through eclipse updates install the CHESSIoT extension by going 
-     _Help-> InstallNew Software--> Add--> Local -->_ Browse local then you pick all the extracted content and finish.
-![install](https://github.com/feliIhirwe/Readme-resources/blob/main/accept.PNG)
+    
+![ _Help-> InstallNew Software--> Add--> Local -->_ Browse local then you pick all the extracted content and finish.](https://github.com/feliIhirwe/Readme-resources/blob/main/Install%20CHESSIoT/browse.PNG)
+- Click next to continue
+
+![Make sure to uncheck ``Group items by catagory`` option and select ``CHESS with IoT extension`` features](https://github.com/feliIhirwe/Readme-resources/blob/main/Install%20CHESSIoT/Select%20CHESSIoT.PNG)
+
+
 5. Click install (This will take some time to load all the dependencies, sit relax after sometime around and it can take 2 minutes to 10 minutes)
 
 6. Continue with normal installation steps.
