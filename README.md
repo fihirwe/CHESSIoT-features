@@ -9,7 +9,7 @@ We will show you the steps to follows in order to successfully install the exten
      - Git client (optional)
      - Window OS
 
-- Download CHESS1.0.0 for window from this [link](https://www.eclipse.org/chess/download.html) and extract it.
+- Download CHESS1.0.0 for Window OS from this [link](https://download.eclipse.org/chess/core/releases/1.0.0/CHESS-1.0.0-win32.win32.x86_64.zip) and extract it.
 
 - Clone this repository by issuing the next command
    
