@@ -13,9 +13,9 @@ We will show you the steps to follows in order to successfully install the exten
 
 - Clone this repository by issuing the next command
    
-``git clone https://github.com/feliIhirwe/CHESSIoT-features.git``
+``git clone https://github.com/fihirwe/CHESSIoT-features.git``
  
- or you can simply download the source code as a [.zip file](https://github.com/feliIhirwe/CHESSIoT-features/archive/refs/heads/master.zip).
+ or you can simply download the source code as a [.zip file](https://github.com/fihirwe/CHESSIoT-features/archive/refs/heads/master.zip).
  
 - Launch **CHESS.exe** executable file for the tool
 
@@ -27,20 +27,20 @@ Through eclipse, updates install the CHESSIoT extension by going
 - Click next to continue
 Make sure to uncheck the **_`` Group items by category ``_** option and select **_``CHESS with IoT extension``_** features
 
-![](https://github.com/feliIhirwe/Readme-resources/blob/main/Install%20CHESSIoT/Select%20CHESSIoT.PNG)
+![](https://github.com/fihirwe/Readme-resources/blob/main/Install%20CHESSIoT/Select%20CHESSIoT.PNG)
 
 - Click next for CHESSIoT updates
 
-![](https://github.com/feliIhirwe/Readme-resources/blob/main/Install%20CHESSIoT/update.PNG)
+![](https://github.com/fihirwe/Readme-resources/blob/main/Install%20CHESSIoT/update.PNG)
 
 - Accepts the license 
 
-![](https://github.com/feliIhirwe/Readme-resources/blob/main/Install%20CHESSIoT/accept.PNG)
+![](https://github.com/fihirwe/Readme-resources/blob/main/Install%20CHESSIoT/accept.PNG)
 
 This will take a few seconds to load all the dependencies.
 - Agree to install unsigned contents
  
-![](https://github.com/feliIhirwe/Readme-resources/blob/main/Install%20CHESSIoT/last.PNG)
+![](https://github.com/fihirwe/Readme-resources/blob/main/Install%20CHESSIoT/last.PNG)
 
 - You will need to restart your CHESS environment after this process.
 
