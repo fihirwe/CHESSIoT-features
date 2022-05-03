@@ -5,9 +5,9 @@ The new extension includes the following:
 
    **---- FINISHED IMPLEMENTATION ----**
    
-     - CHESSML lanaguage extended with IoT constructs
+     - CHESSIoT DSL (CHESSML lanaguage extended with IoT constructs)
      - Perform safety analysis on designed system (cross -domain) 
-     - Basic failure probaility assisgnment and generate probability file.
+     - Basic failure probaility assignment and generate probability file.
      - Fully generated FMEA table
      - Fully generate Fault tree
      - Analyse Fault tree (removing unnecessary propagations paths)
@@ -19,7 +19,7 @@ The new extension includes the following:
      - Platform code generation / emplying ThingML
      - Design of deployment environment of IoT systems
      - Generate deployment artifact
-     - Geberated deployment autoamtion scripts
+     - Generate deployment autoamtion scripts
 
 The official CHESS1.0.0 can be downloaded from the official downloading [link](https://www.eclipse.org/chess/download.html). The CHESS IoT source code can be accessed through this [link](https://github.com/fihirwe/CHESSIoTplugins_FMEAFTA).
 
