@@ -1,6 +1,27 @@
 # CHESSIoT-features
 
-This repository contains features resources for installing the CHESSIoT extension on top of the CHESS1.0.0 tool. The official CHESS1.0.0 can be downloaded from the official downloading [link](https://www.eclipse.org/chess/download.html). The CHESSIoT repository can be accessed through this [link](https://github.com/feliIhirwe/CHESSIoT_Dev).
+This repository contains features resources for installing the latest CHESS extension on top of the CHESS1.0.0 version or later. 
+The new extension includes the following:
+
+   **---- FINISHED IMPLEMENTATION ----**
+   
+     - CHESSML lanaguage extended with IoT constructs
+     - Perform safety analysis on designed system (cross -domain) 
+     - Basic failure probaility assisgnment and generate probability file.
+     - Fully generated FMEA table
+     - Fully generate Fault tree
+     - Analyse Fault tree (removing unnecessary propagations paths)
+     - Conduct quantitative analysis (system's failure rates calculated)
+     
+   **--- FEATURES UNDER DEVELOPMENT (IoT domain) ----**
+   
+     - Functional level modeling of IoT systems
+     - Platform code generation / emplying ThingML
+     - Design of deployment environment of IoT systems
+     - Generate deployment artifact
+     - Geberated deployment autoamtion scripts
+
+The official CHESS1.0.0 can be downloaded from the official downloading [link](https://www.eclipse.org/chess/download.html). The CHESS IoT source code can be accessed through this [link](https://github.com/fihirwe/CHESSIoTplugins_FMEAFTA).
 
 We will show you the steps to follows in order to successfully install the extension:
 
@@ -22,7 +43,7 @@ We will show you the steps to follows in order to successfully install the exten
 Through eclipse, updates install the CHESSIoT extension by going 
  -  _Help-> InstallNew Software--> Add--> Local -->_ Browse local then you pick all the extracted content and finish.  
 
-![](https://github.com/feliIhirwe/Readme-resources/blob/main/Install%20CHESSIoT/browse.PNG)
+![](https://github.com/fihirwe/Readme-resources/blob/main/Install%20CHESSIoT/browse.PNG)
 
 - Click next to continue
 Make sure to uncheck the **_`` Group items by category ``_** option and select **_``CHESS with IoT extension``_** features
